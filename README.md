@@ -3,7 +3,7 @@ Portifolio desenvolvido utilizando HTML & CSS
 🚀 Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS e GitHub
+HTML, CSS e GitHub
 
 💻 Projeto
 
